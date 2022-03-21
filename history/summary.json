@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.agencerbl.com",
     "slug": "agencerbl-com",
     "status": "down",
-    "uptime": "8.69%",
-    "uptimeDay": "8.69%",
-    "uptimeWeek": "8.69%",
-    "uptimeMonth": "8.69%",
-    "uptimeYear": "8.69%",
-    "time": 346,
-    "timeDay": 346,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 6
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/mwproductions.com",
     "slug": "mwproductions-com",
     "status": "down",
-    "uptime": "6.14%",
-    "uptimeDay": "6.14%",
-    "uptimeWeek": "6.14%",
-    "uptimeMonth": "6.14%",
-    "uptimeYear": "6.14%",
-    "time": 306,
-    "timeDay": 306,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
+    "time": 319,
+    "timeDay": 319,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 6
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/www.martinwatier.com",
     "slug": "martinwatier-com",
     "status": "down",
-    "uptime": "34.16%",
-    "uptimeDay": "34.16%",
-    "uptimeWeek": "34.16%",
-    "uptimeMonth": "34.16%",
-    "uptimeYear": "34.16%",
-    "time": 294,
-    "timeDay": 294,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "uptime": "0.59%",
+    "uptimeDay": "0.59%",
+    "uptimeWeek": "0.59%",
+    "uptimeMonth": "0.59%",
+    "uptimeYear": "0.59%",
+    "time": 342,
+    "timeDay": 342,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 6
     }
   }
 ]
