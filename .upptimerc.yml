@@ -7,14 +7,20 @@ sites:
     url: https://www.agencerbl.com
     headers:
       - "User-Agent: MAGESTION uptime"
+    assignees:
+      - nomadinteractif
   - name: mwproductions.com
     url: https://mwproductions.com
     headers:
       - "User-Agent: MAGESTION uptime"
+    assignees:
+      - nomadinteractif
   - name: martinwatier.com
     url: https://www.martinwatier.com
     headers:
       - "User-Agent: MAGESTION uptime"
+    -assignees:
+      - nomadinteractif
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
