@@ -4,9 +4,9 @@
     "url": "https://www.agencerbl.com",
     "icon": "https://favicons.githubusercontent.com/www.agencerbl.com",
     "slug": "agencerbl-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 1186,
     "timeYear": 1119,
     "dailyMinutesDown": {
+      "2022-06-08": 1,
       "2022-04-17": 21,
       "2022-03-23": 20,
       "2022-03-21": 30
