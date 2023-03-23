@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 1177,
-    "timeDay": 1128,
-    "timeWeek": 1233,
-    "timeMonth": 1220,
-    "timeYear": 1187,
+    "timeDay": 1173,
+    "timeWeek": 1218,
+    "timeMonth": 1218,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2023-03-14": 37,
       "2022-12-10": 86,
@@ -25,8 +25,7 @@
       "2022-07-11": 20,
       "2022-06-30": 26,
       "2022-06-08": 22,
-      "2022-04-17": 21,
-      "2022-03-23": 20
+      "2022-04-17": 21
     }
   },
   {
@@ -41,13 +40,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 218,
-    "timeWeek": 234,
-    "timeMonth": 584,
-    "timeYear": 254,
-    "dailyMinutesDown": {
-      "2022-03-23": 20
-    }
+    "timeDay": 91,
+    "timeWeek": 200,
+    "timeMonth": 574,
+    "timeYear": 253,
+    "dailyMinutesDown": {}
   },
   {
     "name": "martinwatier.com",
@@ -55,21 +52,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.martinwatier.com.ico",
     "slug": "martinwatier-com",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 853,
-    "timeDay": 708,
-    "timeWeek": 851,
-    "timeMonth": 818,
-    "timeYear": 859,
+    "time": 852,
+    "timeDay": 636,
+    "timeWeek": 816,
+    "timeMonth": 807,
+    "timeYear": 858,
     "dailyMinutesDown": {
       "2023-03-14": 34,
       "2022-06-30": 25,
-      "2022-04-17": 21,
-      "2022-03-23": 20
+      "2022-04-17": 21
     }
   }
 ]
