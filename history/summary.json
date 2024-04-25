@@ -4,7 +4,7 @@
     "url": "https://www.agencerbl.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.agencerbl.com.ico",
     "slug": "agencerbl-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1397,
     "timeYear": 1611,
     "dailyMinutesDown": {
+      "2024-04-25": 0,
       "2024-04-03": 81,
       "2024-02-23": 47,
       "2024-02-17": 18,
@@ -60,7 +61,7 @@
     "uptimeYear": "99.96%",
     "time": 325,
     "timeDay": 204,
-    "timeWeek": 229,
+    "timeWeek": 226,
     "timeMonth": 217,
     "timeYear": 329,
     "dailyMinutesDown": {
@@ -86,7 +87,7 @@
     "uptimeYear": "99.88%",
     "time": 1024,
     "timeDay": 809,
-    "timeWeek": 880,
+    "timeWeek": 890,
     "timeMonth": 932,
     "timeYear": 1081,
     "dailyMinutesDown": {
